@@ -38,6 +38,24 @@
                     hreflang="en"
                     href="https://flyshulk.github.io/en/tags/java/"
                     /></url><url>
+            <loc>https://flyshulk.github.io/en/tags/mac/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://flyshulk.github.io/tags/mac/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://flyshulk.github.io/en/tags/mac/"
+                    /></url><url>
+            <loc>https://flyshulk.github.io/en/mac_tools/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://flyshulk.github.io/mac_tools/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://flyshulk.github.io/en/mac_tools/"
+                    /></url><url>
             <loc>https://flyshulk.github.io/en/first_post/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -65,4 +83,14 @@
                     hreflang="en"
                     href="https://flyshulk.github.io/en/tags/"
                     /></url><url>
-            <loc>https://flyshulk.github.io/en/categories/tech/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://flyshulk.github.io/en/categories/tech/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://flyshulk.github.io/en/tags/tool/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://flyshulk.github.io/tags/tool/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://flyshulk.github.io/en/tags/tool/"
+                    /></url><url>
+            <loc>https://flyshulk.github.io/en/categories/tool/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
