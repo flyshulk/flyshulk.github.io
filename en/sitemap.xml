@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://flyshulk.github.io/en/categories/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://flyshulk.github.io/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://flyshulk.github.io/categories/"
@@ -11,7 +11,16 @@
                     hreflang="en"
                     href="https://flyshulk.github.io/en/categories/"
                     /></url><url>
-            <loc>https://flyshulk.github.io/en/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://flyshulk.github.io/en/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://flyshulk.github.io/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://flyshulk.github.io/en/categories/documentation/"
+                    /></url><url>
+            <loc>https://flyshulk.github.io/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://flyshulk.github.io/"
@@ -20,61 +29,7 @@
                     hreflang="en"
                     href="https://flyshulk.github.io/en/"
                     /></url><url>
-            <loc>https://flyshulk.github.io/en/tags/github/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/tags/github/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/tags/github/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/tags/java/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/tags/java/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/tags/java/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/tags/mac/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/tags/mac/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/tags/mac/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/mac_tools/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/mac_tools/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/mac_tools/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/first_post/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/first_post/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/first_post/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/posts/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/posts/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/tags/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://flyshulk.github.io/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://flyshulk.github.io/tags/"
@@ -82,15 +37,4 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://flyshulk.github.io/en/tags/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/categories/tech/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://flyshulk.github.io/en/tags/tool/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://flyshulk.github.io/tags/tool/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://flyshulk.github.io/en/tags/tool/"
-                    /></url><url>
-            <loc>https://flyshulk.github.io/en/categories/tool/</loc><lastmod>2020-06-13T19:45:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+                    /></url></urlset>

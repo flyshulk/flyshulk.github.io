@@ -1,0 +1,96 @@
+# MAC实用工具
+
+
+以下是个人使用过的Mac系统下工具体验总结。
+
+# **MAC效率工具**
+
+| 工具名称              | 工具说明                                                     |
+| --------------------- | ------------------------------------------------------------ |
+| Dropbox               | 安装同步配置文件dropbox工具,同步配置，可以设置使用代理，配置使用ssr的socket5代理，同步速度超快。必装。免费2GB空间存储配置文档或资料文档完全够用了。 |
+| Karabiner-Elements    | 搭配hhkb键盘使用，修改快捷键，配置文件 Karabiner 的配置文件在 ~/.config/karabiner/karabiner.json，每当文件有更改的时候，Karabiner 会自动侦测到改动，从而重新加载配置。也就是说，我们只管更改，保存后 Karabiner 会自动加载新配置。 |
+| Alfred                | workflow，效率工具必装，已购买。                             |
+| iTerm2+oh my zsh      | 终端美化效率工具，必装，主题使用apple，颜色使用ayu_light。iTerm2搭配oh-my-zsh 主题使用用。 |
+| Bartender4            | Bartender4隐藏和显示小图标工具，界面好用，正版激活后可以5个Mac电脑使用，已购买。 |
+| Istat Menus           | 桌面菜单图标美化升级，有正版需要购买，标准版3个Mac使用,黑五已购买12元。 |
+| Dropover              | 25元，已购买，悬浮窗，激活架子，下载地址：appstore搜索下载   |
+| Mos                   | 鼠标顺滑滚动，免费。                                         |
+| Tickeys               | 模拟机械键盘敲击声音，注意不需要下载到github上面提供的地址比如正式能用的是Tickeys-1.1.0，github提供的版本是Tickeys-0.5.0-yosemite |
+| CheatSheet            | 好用的应用快捷键提示工具。                                   |
+| KeyCastr              | 显示键盘按键，跑马灯，免费。                                 |
+| Moom                  | 强大的窗口布局工具。                                         |
+| CleanMyMac            | 已购买，清理系统垃圾。有点坑，使用要注意！！！容易误删文件。 |
+| IINA                  | 播放器，免费好用。                                           |
+| SwitchHosts!          | Hosts切换工具。免费开源。                                    |
+| Launchpad Manager     | 启动台图标管理工具。您可以以7.99美元的价格购买许可证。单个许可证最多可以在5台计算机上使用。 |
+| Microsoft NTFS Tuxera | 处理NTFS格式，解决Mac不能写入移动硬盘/U盘问题。管理修复磁盘已购买，只能授权一台电脑，邮箱查询激活码。 |
+| The Unarchiver        | 优秀免费解压工具，地址：Appstore直接搜索下载                 |
+| Magnet                | 窗口分屏，收费50。appstore下载，黑五已购买，18元             |
+| KeyboardHolder        | 自动切换输入法。新的项目。免费。                             |
+| Shuttle               | 没有配置成功。执行切换命令多工具。比如切换网络代理。         |
+| Proxifier             | 代理工具。                                                   |
+| AppCleaner            | 很好用的卸载软件工具。免费好用，强烈推荐。                   |
+|                       |                                                              |
+
+
+
+
+
+# **程序员生产力开发工具：**
+
+| 工具名称           | 工具说明                                        |
+| ------------------ | ----------------------------------------------- |
+| VMware Funsion     | 虚拟机工具。                                    |
+| Dash               | 免费到期，需要购买。代码API查询工具。           |
+| SecureCRT          | 之前在win系统下一直使用的老牌工具。             |
+| Termius            | Ssh终端和sftp，支持端口转发，多端可用。         |
+| Tabby              | 很好用。是Termius的前身。开源免费的，支持中文。 |
+| Google Chrome      | 不用过多解释。                                  |
+| IntelliJ IDEA      | 在涨价前已入全家桶。                            |
+| Visual Studio Code | 开发软件，不用过多解释。                        |
+| Navicat Premium    | 缺点价格太贵                                    |
+| Postman            | web开发调试工具，模拟发起http请求。             |
+| rdm                | RedisDesktopManager。缺点价格太贵               |
+| Wireshark          | 免费。                                          |
+| Sublimetext        | 开发文本编辑工具。                              |
+| Draw.io            | 程序流程图画图工具                              |
+| Fork               | 图形界面Git管理工具                             |
+| Charles            | 抓包工具                                        |
+| Xmind              | 思维导图工具，收费且价格巨贵                    |
+| Parallels Desktop  | 或许是macOS上最好用的虚拟机。缺点价格太贵了     |
+| Github Desktop     | 图形界面Git管理工具。体验不错，很好用           |
+|                    |                                                 |
+
+
+
+# **办公软件**
+
+| 工具名称           | 工具说明          |
+| ------------------ | ----------------- |
+| Office Word        |                   |
+| Office Excel       |                   |
+| Office PPT         |                   |
+| PDF Professional   | PDF阅读和转化工具 |
+| Flowchart Designer | 画流程图          |
+| 有道云笔记         | 记笔记            |
+| 百度网盘           |                   |
+| 石墨文档           |                   |
+|                    |                   |
+
+
+
+# 社交/娱乐/上网
+
+| 工具名称                 | 工具说明                                                     |
+| ------------------------ | ------------------------------------------------------------ |
+| Infuse                   | 已购买                                                       |
+| tinyMediaManager         | 刮削器                                                       |
+| Snipaste                 | 强大的截图工具                                               |
+| OmniGraffle              | 绘图软件                                                     |
+| 1Password                | 密码管理                                                     |
+| Speedtest                | 网速测试                                                     |
+| Turbo Boost Switcher Pro | CPU温度监视工具。不好用                                      |
+| Bitwarden                | 超级好用强力推荐。建议vaultwarden开源自建服务。做好每日的异地备份方案。使用一年多，目前体验感觉超好。 |
+|                          |                                                              |
+
+
